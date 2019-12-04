@@ -1,7 +1,4 @@
 [
-  //https://boardgamegeek.com/browse/boardgame/page/1
-  //www.boardgamegeek.com
-  //https://bgg-json.azurewebsites.net/thing/{id}
   {
     "gameId": 174430,
     "name": "Gloomhaven",
@@ -1078,7 +1075,7 @@
     "name": "The 7th Continent",
     "minPlayers": 1,
     "maxPlayers": 4,
-    "playingTime": 1000,
+    "playingTime": 500,
     "mechanics": [
       "Cooperative Game",
       "Grid Movement",
