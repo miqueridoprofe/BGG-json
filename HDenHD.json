@@ -1,0 +1,100 @@
+[
+  {
+    "gameId": 001,
+    "Tema": "Github",
+    "Logro": 4,
+    "Oportunidad": 5,
+    "Incertidumbre": 2
+  },
+  {
+    "gameId": 002,
+    "Tema": "Markdown",
+    "Logro": 3,
+    "Oportunidad": 3,
+    "Incertidumbre": 3
+  },
+  {
+    "gameId": 003,
+    "Tema": "RegEx",
+    "Logro": 4,
+    "Oportunidad": 5,
+    "Incertidumbre": 3
+  },
+  {
+    "gameId": 004,
+    "Tema": "Phyton",
+    "Logro": 3,
+    "Oportunidad": 4,
+    "Incertidumbre": 4
+  },
+  {
+    "gameId": 005,
+    "Tema": "Atom",
+    "Logro": 3,
+    "Oportunidad": 5,
+    "Incertidumbre": 2
+  },
+  {
+    "gameId": 006,
+    "Tema": "Codificacion de texto | TEI",
+    "Logro": 4,
+    "Oportunidad": 3,
+    "Incertidumbre": 3
+  },
+  {
+    "gameId": 007,
+    "Tema": "NB | MIT Press",
+    "Logro": 3,
+    "Oportunidad": 5,
+    "Incertidumbre": 2
+  },
+  {
+    "gameId": 008,
+    "Tema": "Zotero | Mendeley",
+    "Logro": 3,
+    "Oportunidad": 4,
+    "Incertidumbre": 2
+  },
+  {
+    "gameId": 009,
+    "Tema": "Scalar | CMS",
+    "Logro": 4,
+    "Oportunidad": 3,
+    "Incertidumbre": 2
+  },
+  {
+    "gameId": 010,
+    "Tema": "Omeka",
+    "Logro": 3,
+    "Oportunidad": 3,
+    "Incertidumbre": 4
+  },
+  {
+    "gameId": 011,
+    "Tema": "Dublin Core",
+    "Logro": 3,
+    "Oportunidad": 5,
+    "Incertidumbre": 1
+  },
+  {
+    "gameId": 012,
+    "Tema": "AI | Teachable Machine",
+    "Logro": 2,
+    "Oportunidad": ,4
+    "Incertidumbre": 4
+  },
+  {
+    "gameId": 013,
+    "Tema": "API Rest | JSON | CSV",
+    "Logro": 2,
+    "Oportunidad": 4,
+    "Incertidumbre": 3
+  },
+  {
+    "gameId": 014,
+    "Tema": "D3 | SVG | DataViz",
+    "Logro": 2,
+    "Oportunidad": 5,
+    "Incertidumbre": 4
+  }
+]
